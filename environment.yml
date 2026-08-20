@@ -1,0 +1,14 @@
+name: hbv-genomics
+channels: 
+   -  conda-forge
+
+dependencies:
+   -  python=3.10
+   -  pip
+   -  pip:
+        -  pandas==2.3.3
+        -  requests==2.34.2
+
+
+
+  
