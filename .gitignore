@@ -1,0 +1,42 @@
+# Raw sequencing data
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Alignment files
+*.bam
+*.bai
+*.sam
+
+# Trimmed reads
+results/trimmed/
+
+# Large/intermediate QC files
+*_fastqc.zip
+
+# BCFtools indexes
+*.tbi
+*.csi
+
+# BWA reference indexes
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+*.0123
+*.bwt.2bit.64
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
