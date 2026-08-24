@@ -1,5 +1,6 @@
  HEAD
 # My First Repo
+
 =======
 # HBV Genomic Surveillance & Molecular Epidemiology
 
@@ -9,8 +10,8 @@ Phase 1 — Dataset discovery and project design
 
 ## Overview
 
-This project develops a reproducible bioinformatics workflow for
-whole-genome hepatitis B virus (HBV) sequencing data.
+This project is my attempt to develop a documented reproducible bioinformatics workflow for
+whole-genome hepatitis B virus (HBV) sequencing data. It can be adapted to other similar pathogens
 
 The workflow will progress from raw sequencing reads through:
 
