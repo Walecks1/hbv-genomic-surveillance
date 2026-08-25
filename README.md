@@ -79,7 +79,7 @@ I also wrote the scripts to retrieve SRA metadata and check the manually curated
 `scripts/validate_sra_inventory.py`
 
 One limitation of this dataset is the lack of detailed epidemiological and clinical metadata. 
-This limits the epidemiological questions that can be reasonal=bly addressed with this dataset.
+This limits the epidemiological questions that can be reasonalbly addressed with this dataset.
 
 
 
