@@ -46,7 +46,7 @@ Illumina short-read data?
 | 5 | Variant analysis | LA005 completed |
 | 6 | Consensus sequences | LA005 pilot completed |
 | 7 | Genotyping | completed |
-| 8 | Phylogenetic analysis | In progress |
+| 8 | Phylogenetic analysis | completed |
 | 9 | Statistical analysis | Not started |
 | 10 | Dashboard | Not started |
 | 11 | Convert workflow into Nextflow | Not started |
@@ -163,18 +163,22 @@ The full HBV-GLUE results, including closest reference sequences and coding-regi
 `results/genotyping/hbv_glue_results.tsv`
 
 
-## Next step — Phylogenetic analysis
+###  Phylogenetic analysis
 
-Phase 8 will focus on placing the reconstructed genomes within established HBV genetic diversity.
+Whole-genome phylogenetic analysis was concordant with HBV-GLUE at the genotype level for all 
+15 reconstructed genomes. Phylogenetic placement supported eight genotype A, six genotype D 
+and one genotype E sequences. Subgenotype resolution was less consistent: 
+D4 assignment for N011 was strongly supported, whereas several A1 and D3 assignments lacked 
+sufficiently strong bootstrap support for independent confirmation.
 
-The planned steps are:
+The maximum-likelihood tree is available in:
 
-1. curate representative HBV genotype and sub-genotype reference sequences;
-2. combine the reference sequences with the reconstructed genomes;
-3. perform multiple-sequence alignment with MAFFT;
-4. infer a maximum-likelihood phylogeny using IQ-TREE;
-5. compare phylogenetic placement with the HBV-GLUE genotype assignments;
-6. investigate discordant or potentially recombinant sequences where indicated.
+`results/phylogeny/HBV_ML.treefile`
+
+## Next Step
+Phase 9 will focus on descriptive statistical analysis of the genomic results, including genotype 
+distribution, sequencing/mapping metrics and variant characteristics.
+
 
 
 ## Reproducibility
@@ -195,6 +199,10 @@ The current workflow uses tools including:
 - samtools
 - BCFtools
 - HBV-GLUE
+- Mafft
+- iqtree2
+- Biopython
+
 
 The analystical steps are being worked through manually first. 
 Once I am satisfied that the workflow and the underlying decisions are sound, the pipeline will be 
