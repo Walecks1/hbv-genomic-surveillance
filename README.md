@@ -45,7 +45,7 @@ Illumina short-read data?
 | 6 | Consensus sequences | LA005 pilot completed |
 | 7 | Genotyping | completed |
 | 8 | Phylogenetic analysis | completed |
-| 9 | Statistical analysis | Not started |
+| 9 | Statistical analysis | In progress |
 | 10 | Dashboard | Not started |
 | 11 | Convert workflow into Nextflow | Not started |
 | 12 | Containerisation | Not started |
