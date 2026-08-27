@@ -6,6 +6,7 @@ channels:
 dependencies: # Core
    -  python=3.10
    -  biopython=1.88
+   -  matplotlib=3.10.9
    -  pip
    -  pip:
         -  pandas==2.3.3
