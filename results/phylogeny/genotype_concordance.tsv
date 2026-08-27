@@ -1,0 +1,16 @@
+sample_id	hbv_glue_genotype	hbv_glue_subgenotype	closest_phylo_reference	phylo_genotype	phylo_subgenotype_nearest_ref	nearest_ref_distance	nearest_node_support	nearest_node_taxa	genotype_concordance	interpretation
+3269	D	D3	REF_D_D3_FJ692507	D	D3	0.017133	NA	36	Concordant	Genotype D confirmed; D3 consistent but not independently well-supported
+3274	A	Unknown	REF_A_A1_2_FJ692557	A	A1_2	0.057505	100/95	21	Concordant	Genotype A confirmed; subgenotype unresolved
+3319	D	D3	REF_D_D3_FJ692507	D	D3	0.013439	99.6/68	12	Concordant	Genotype D confirmed; D3 consistent but bootstrap support limited
+3358	A	Unknown	REF_A_A1_2_FJ692557	A	A1_2	0.052645	7.8/34	20	Concordant	Genotype A confirmed; subgenotype unresolved
+3658	A	Unknown	REF_A_A1_2_FJ692557	A	A1_2	0.060814	13.2/51	17	Concordant	Genotype A confirmed; subgenotype unresolved
+3768	D	D3	REF_D_D3_FJ692507	D	D3	0.025545	NA	36	Concordant	Genotype D confirmed; D3 consistent but not independently well-supported
+3791	A	A1 (1)	REF_A_A1_2_FJ692557	A	A1_2	0.042203	99.3/68	16	Concordant	Genotype A confirmed; A1 placement plausible but not strongly resolved
+4070	A	A1 (2)	REF_A_A1_2_FJ692557	A	A1_2	0.019583	100/68	14	Concordant	Genotype A confirmed; A1(2) consistent but bootstrap support limited
+4312	A	A1 (2)	REF_A_A1_2_FJ692557	A	A1_2	0.024939	100/68	15	Concordant	Genotype A confirmed; A1(2) consistent but bootstrap support limited
+LA005	D	Unknown	REF_D_D3_FJ692507	D	D3	0.044754	NA	36	Concordant	Genotype D confirmed; subgenotype unresolved
+N005	A	Unknown	REF_A_A1_2_FJ692557	A	A1_2	0.064026	91.7/60	19	Concordant	Genotype A confirmed; subgenotype unresolved
+N011	D	D4	REF_D_D4_FJ692533	D	D4	0.02183	98.7/100	2	Concordant	Genotype D4 phylogenetically supported
+N060	A	Unknown	REF_A_A1_2_FJ692557	A	A1_2	0.056188	91.7/60	19	Concordant	Genotype A confirmed; subgenotype unresolved
+N199	D	D3	REF_D_D3_FJ692507	D	D3	0.011132	99.6/68	12	Concordant	Genotype D confirmed; D3 consistent but bootstrap support limited
+PO04	E	N/A	REF_E_NA_GQ161817	E	NA	0.023891	100/100	2	Concordant	Genotype E phylogenetically supported

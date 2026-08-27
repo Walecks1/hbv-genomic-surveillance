@@ -1,0 +1,22 @@
+accession	genotype	subgenotype	role	country	rationale
+KP168423	A	A1_1	focused_subgenotype	Kenya	A1 clade 1 reference; African representative and closest HBV-GLUE reference for several study genotype-A sequences
+FJ692557	A	A1_2	genotype_reference	Haiti	A1 clade 2 reference and proposed genotype-A representative; closest HBV-GLUE reference for 4070 and 4312
+EU594385	A	A2	focused_subgenotype	Estonia	Separates A2 from the A1 lineages detected in the study
+AM184126	A	A3	focused_subgenotype	Gabon	Represents A3 and expands African genotype-A diversity
+KM606737	A	A4	focused_subgenotype	Cuba	Represents the rare A4 lineage and prevents an A1/A2-only genotype-A panel
+FJ692601	A	A5	focused_subgenotype	Haiti	Represents a distinct supported genotype-A subgenotype
+GQ331046	A	A6	focused_subgenotype	Belgium	Represents rare A6-like diversity retained in the published reference framework
+AB222711	D	D1_1	focused_subgenotype	Uzbekistan	D1 clade 1 reference; provides alternative D placement outside D3/D4
+KC875277	D	D1_2	genotype_reference	India	Proposed overall genotype-D representative
+MF925358	D	D2	focused_subgenotype	Bangladesh	Represents D2 and improves within-genotype D discrimination
+FJ692507	D	D3	focused_subgenotype	Haiti	D3 reference; HBV-GLUE closest reference for 3269, 3319, 3768, N199 and LA005
+FJ692533	D	D4	focused_subgenotype	Haiti	D4 reference; HBV-GLUE closest reference for N011
+GQ205389	D	D5	focused_subgenotype	India	Represents D5 so D3/D4 sequences are tested against broader D diversity
+FJ904435	D	D7	focused_subgenotype	Tunisia	Represents the supported D7 lineage
+GU815637	B	B2_2	genotype_reference	Taiwan	Genotype-B backbone reference; prevents an A/D/E-only comparison
+GQ377617	C	C2_2	genotype_reference	China	Genotype-C backbone reference
+GQ161817	E	NA	genotype_reference	Guinea	Proposed genotype-E representative and closest HBV-GLUE reference for PO04
+HM585194	F	F1	genotype_reference	Chile	Proposed genotype-F representative
+AB056513	G	NA	genotype_reference	NA	Genotype-G backbone representative
+FJ356715	H	NA	genotype_reference	NA	Proposed genotype-H representative
+AB562463	I	I1	genotype_reference	NA	Proposed genotype-I representative
