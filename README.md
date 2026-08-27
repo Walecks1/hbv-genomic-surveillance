@@ -3,9 +3,7 @@
 
 ## Project status
 
-Currenty working through Phases 2-7, from raw sequence QC to genotyping, using LA005 as the pilot sample. 
-
-Phase 1 — Dataset selection and metadata curation, already completed.
+Currenty working on phase 9, phases 1-8 already completed.
 
 ## Overview
 
